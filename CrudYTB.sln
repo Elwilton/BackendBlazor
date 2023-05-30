@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudYTB", "CrudYTB\CrudYTB.csproj", "{E74DC8E3-37EC-4EE4-86B3-A830F0F2238E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E74DC8E3-37EC-4EE4-86B3-A830F0F2238E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74DC8E3-37EC-4EE4-86B3-A830F0F2238E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E74DC8E3-37EC-4EE4-86B3-A830F0F2238E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E74DC8E3-37EC-4EE4-86B3-A830F0F2238E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {905C6865-4632-4E44-96D7-5CCB3551175A}
+	EndGlobalSection
+EndGlobal
